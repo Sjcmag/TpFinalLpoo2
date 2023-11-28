@@ -1,0 +1,75 @@
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.Properties.Resources.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.Properties.Resources.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.Properties.Resources.resources
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.csproj.GenerateResource.Cache
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.Properties.Resources.resources
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.csproj.GenerateResource.Cache
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\ClasesBase\obj\Debug\ClasesBase.pdb

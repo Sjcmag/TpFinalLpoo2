@@ -1,0 +1,646 @@
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\App.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\bin\Debug\Vistas.exe
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\bin\Debug\Vistas.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.exe
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmEstacionamiento.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmEstacionamiento.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmEstacionamiento.baml
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.baml
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmEstacionamiento.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\bin\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\bin\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\lpooII-grupo-4\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\bin\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\bin\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.exe
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\bin\Debug\Vistas.exe
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\bin\Debug\Vistas.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\App.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\App.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Agustina\UNJU\APU\LPOOII\TPS\TP1\lpooII-grupo-4\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\templateFrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\App.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Triggers.baml
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.exe
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.pdb
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\Vistas.exe
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\Vistas.pdb
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.dll
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.pdb
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.baml
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.baml
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\templateFrmVehiculos.baml
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Triggers.baml
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\App.baml
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.g.cs
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\App.g.cs
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\ProgramasLPOO\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.baml
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\templateFrmVehiculos.baml
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Triggers.baml
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\App.baml
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\Vistas.exe
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\Vistas.pdb
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\emiva\Documents\LPOO II\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\Vistas.exe
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\Vistas.pdb
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.baml
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\templateFrmVehiculos.baml
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Triggers.baml
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\App.baml
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\UserControl1.baml
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\UserControl1.g.cs
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\UserControlbutton.baml
+C:\Users\javier\Documents\loop2\nuevo\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\UserControlbutton.g.cs
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\templateFrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\UserControl1.baml
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\UserControlbutton.baml
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\App.baml
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\UserControl1.g.cs
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\UserControlbutton.g.cs
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.baml
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LPOO\Desktop\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2[1] 2\lpooII-grupo-4-tp2\lpooII-grupo-4\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\templateFrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\UserControl1.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\UserControlbutton.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\App.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\UserControl1.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\UserControlbutton.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\bin\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\bin\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\Login.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\EstadoSector.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\EstadoSector.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\Vistas\obj\x86\Debug\templateDictionary.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4\Vistas\obj\x86\Debug\templateDictionary.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\templateDictionary.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp3\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe.config
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.exe
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\templateDictionary.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\test.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\test.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\templateDictionary.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\test.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\test.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp3agus\--------------------------+\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ABMUsuarios.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\templateDictionary.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ABMUsuarios.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ListadoDeUsuarios.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp4\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ListadoDeUsuarios.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ListadoDeUsuarios.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\templateDictionary.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VistaPreviaImpresión.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ABMUsuarios.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ListadoDeUsuarios.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VistaPreviaImpresión.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ABMUsuarios.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FlowDocs.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FlowDocs.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FixedDocs.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FixedDocs.g.cs
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\RegistrarEntrada.baml
+C:\Users\LPOO\Desktop\lpoo 2023\tp5\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\RegistrarEntrada.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe.config
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.exe
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.dll
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.pdb
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FixedDocs.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FlowDocs.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ListadoDeUsuarios.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\RegistrarEntrada.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\templateDictionary.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VistaPreviaImpresión.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ABMUsuarios.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FixedDocs.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FlowDocs.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ListadoDeUsuarios.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\RegistrarEntrada.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VistaPreviaImpresión.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ABMUsuarios.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.baml
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Agustina\UNJU\APU\LPOOII\TPS\tpluis\lpooII-grupo-4-original\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.exe
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\bin\Debug\Vistas.pdb
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstilosFrmClientes.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FixedDocs.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FlowDocs.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ListadoDeUsuarios.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\RegistrarEntrada.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\templateDictionary.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VistaPreviaImpresión.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ABMUsuarios.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\EstadoSector.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FixedDocs.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FlowDocs.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmClientes.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmSectores.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\FrmVehiculos.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ListadoDeUsuarios.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\RegistrarEntrada.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControl1.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\UserControlbutton.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VehiculosEnPlaya.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\VistaPreviaImpresión.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\ABMUsuarios.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Login.baml
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\javier\Documents\LoopII\lpooII-grupo-4-original\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache

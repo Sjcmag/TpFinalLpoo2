@@ -104,5 +104,10 @@ namespace Vistas
             txtDni.Clear();
             txtApellido.Clear();
         }
+
+        private void txtApellido_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

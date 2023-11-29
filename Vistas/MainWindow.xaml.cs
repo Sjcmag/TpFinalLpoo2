@@ -74,7 +74,19 @@ namespace Vistas
             vehiculo.Show();
             this.Hide();
         }
+        private void btnregistrarEntrada_Click(object sender, RoutedEventArgs e)
+        {
+            RegistrarEntrada ticket = new RegistrarEntrada();
+            ticket.Show();
+            this.Hide();
+        }
 
+        private void btnRegistrarSalida_Click(object sender, RoutedEventArgs e)
+        {
+            registrarSalida salida = new registrarSalida();
+            salida.Show();
+            this.Hide();
+        }
 
     }
 }

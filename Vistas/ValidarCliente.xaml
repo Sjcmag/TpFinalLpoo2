@@ -67,7 +67,7 @@
         </TextBox>
         <TextBox Height="23" HorizontalAlignment="Left" Margin="126,164,0,0" Name="txtApellido" VerticalAlignment="Top" Width="120" 
                      DataContext="{StaticResource DATA_USER}"        
-         Style="{StaticResource EstiloError}">
+         Style="{StaticResource EstiloError}" TextChanged="txtApellido_TextChanged">
             <TextBox.Text>
                 <Binding Path="Cli_Apellido" UpdateSourceTrigger="PropertyChanged" ValidatesOnExceptions="True" ValidatesOnDataErrors="True"></Binding>
             </TextBox.Text>

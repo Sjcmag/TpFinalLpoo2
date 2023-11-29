@@ -6,7 +6,6 @@
         Title="FixedDocs" Height="500" Width="300" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize" Loaded="Window_Loaded">
 
     <FixedDocument>
-        <PageContent>
             <FixedPage>
                 <Grid>
                     <Grid.RowDefinitions>
@@ -74,7 +73,7 @@
                         <TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Center" Text="La primera hora se abona completa. " Margin="7"></TextBlock>
                     </Grid>
                 </Grid>
+
             </FixedPage>
-        </PageContent>
     </FixedDocument>
 </Window>

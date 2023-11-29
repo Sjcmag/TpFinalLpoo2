@@ -29,7 +29,6 @@ namespace Vistas
             Sector sector = new Sector();
             if (MessageBox.Show("Confirma que los datos ingresados con correctos?", "Confirmacion", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
             {
-                sector.Sec_Codigo = int.Parse(txtSectorCodigo.Text);
                 sector.Sec_Descripcion = txtDescripcion.Text;
                 sector.Sec_Id = txtIdentificador.Text;
                 if (chkHabilitado.IsChecked == true)
@@ -43,6 +42,7 @@ namespace Vistas
             }       
 
                 MessageBox.Show("Sector Codigo: "+sector.Sec_Codigo+"\nDescripcion: "+sector.Sec_Descripcion+"\nIdentificador: "+sector.Sec_Id+"\nHabilitado: "+sector.Sec_Habilitado);
+            TrabajarSector.nuevoSector(sector);
                 txtDescripcion.Clear();
                 txtIdentificador.Clear();
                 txtSectorCodigo.Clear();

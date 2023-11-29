@@ -28,6 +28,7 @@ namespace Vistas
         private CollectionViewSource vistaColeccionFiltrada;
         public static ObservableCollection<Ticket> prueba;
 
+        int numeroTicket = 1;
         //para la duracion
         decimal sDuracion = 0;
         decimal sTarifa = 0;
@@ -104,10 +105,12 @@ namespace Vistas
             ticket.Sec_Codigo = cboSector.SelectedIndex;
 
             TrabajarTicket.nuevoTicket(ticket);
+
+            TrabajarSector.liberarSector(false, cboSector.SelectedIndex);
             
             MessageBox.Show("se agrego correctamente");
-            FixedDocs fix = new FixedDocs();
-            fix.Show();
+            //FixedDocs fix = new FixedDocs();
+            //fix.Show();
             this.Hide();
         }
 
@@ -152,6 +155,11 @@ namespace Vistas
         private void consulta()
         {
             TrabajarTicket.traerTickets();
+
+        }
+
+        private void viewClientes_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
 
         }
     }
